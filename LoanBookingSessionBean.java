@@ -6,7 +6,7 @@ import java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
 import java.io.inputoutVIKRAM;
-import java.io.inputoutMASTER;
+import java.io.inputoutKAITHI;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
